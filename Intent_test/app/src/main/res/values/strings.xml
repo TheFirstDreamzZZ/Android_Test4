@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent_test</string>
+    <string name="url_text">请输入你要访问的网页</string>
+    <string name="button_text">浏览该网页</string>
+</resources>
