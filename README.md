@@ -66,3 +66,7 @@ Intent_test程序界面:
 <img src="https://github.com/TheFirstDreamzZZ/Android_Test4/blob/master/Intent_test/ScreenShoot/third.png" width="375" />
 
 使用MyBrowser程序打开输入的网址
+
+## 实验总结:
+  
+从本次实验中，学习了隐式Intent的使用，光是上课是不方便理解的，在实验中，就能比较直观的感受到intent的使用，在生活中也接触到很多，特别是应用中的分享功能。实验进行得比较顺利，但是提交实验就遇到了不少麻烦，毕竟是第一次接触github，不知道怎么上传两个文件夹，在Android Studio中上传的文件没有总的项目文件夹，在百度上也有很多方法，在不断的尝试下，还是找到了解决方案，才能顺利的提交本次实验。本次实验对我来说收获很多，更加了解了手机app的一些功能实现。
